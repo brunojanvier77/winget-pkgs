@@ -15,7 +15,6 @@ InstallModes:
 UpgradeBehavior: install
 AppsAndFeaturesEntries:
 - Publisher: Contenta Software
-  DisplayVersion: 9.0.35
   ProductCode: '{A3B7F4E2-9C1D-4F8A-B2E5-7D3A9F6C0E14}_is1'
 Installers:
 - Architecture: x64
