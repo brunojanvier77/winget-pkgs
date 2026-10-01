@@ -15,7 +15,6 @@ InstallModes:
 UpgradeBehavior: install
 AppsAndFeaturesEntries:
 - Publisher: Contenta Software
-  DisplayVersion: 2026.2.21
   ProductCode: '{B4C8F5E3-AD2E-5F9B-C3F6-8E4B0G7D1F25}_is1'
 Installers:
 - Architecture: x64
