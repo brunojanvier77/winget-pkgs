@@ -18,6 +18,6 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   InstallerUrl: https://www.contenta-software.com/AIVideoEnhancerStudioPremium2026-Setup-2026.7.16.exe
-  InstallerSha256: 56A6026058485FD2B822DF4BEB6F94D0FCC664E9FA5CE919035B1ADC19383386
+  InstallerSha256: 5370D5DD5495BE2406D6BA3FD8B32DFFB13574A8F4382C9C9D375F52E22E447C
 ManifestType: installer
 ManifestVersion: 1.12.0
