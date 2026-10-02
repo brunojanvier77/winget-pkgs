@@ -18,6 +18,6 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   InstallerUrl: https://www.contenta-software.com/ContentaConverterPremium2026-Setup-9.0.36.exe
-  InstallerSha256: 836CBE54C3CCB578BAEA056C1A83FDB89EE79D9F54A98BB8F9B4DED3A24E0477
+  InstallerSha256: DC35B06690EA7C63136B797AA0E0C6F2C58C1802A752EF1D504677A7C0F1E82B
 ManifestType: installer
 ManifestVersion: 1.12.0
