@@ -18,6 +18,6 @@ AppsAndFeaturesEntries:
 Installers:
 - Architecture: x64
   InstallerUrl: https://www.contenta-software.com/CadConverterPremium2026-Setup-1.0.27.exe
-  InstallerSha256: 6E1DD45A7169D350FEF207033F2C8678C99A7507300644AFF801641593EB341B
+  InstallerSha256: CEA15ECDF3193BD51C13A4FBF0678E404FD2999CD2493DDDF94E4AE9C2ABDD59
 ManifestType: installer
 ManifestVersion: 1.12.0
